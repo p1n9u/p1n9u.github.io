@@ -1,4 +1,4 @@
-* Development Log
+** Development Log
 
 - 20210427
 커뮤니티 블로그는 하기 싫으니 내가 직접 만들 이런 짓을 왜 하려고 생각한걸까
