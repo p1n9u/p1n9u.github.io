@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: posts
+categories: dev
 title: "Testing Readability with a Bunch of Text"
 tags: [sample post, readability, test, intro]
 date-string: NOVEMBER 10, 2016
