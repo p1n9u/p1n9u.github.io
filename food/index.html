@@ -1,6 +1,5 @@
 ---
 layout: post-index
-categories: food
 title: food
 ---
 <article>
@@ -10,7 +9,7 @@ title: food
     <hr>
 </article>
 
-{% for post in site.posts %}
+{% for post in site.food %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
