@@ -1,6 +1,6 @@
 ---
 layout: fpost
-categories: posts
+categories: fposts
 title: Syntax Highlighting Post
 tags: [sample post, code, highlighting]
 date-string: NOVEMBER 18, 2016

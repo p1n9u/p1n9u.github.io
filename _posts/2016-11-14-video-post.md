@@ -1,6 +1,6 @@
 ---
 layout: gpost
-categories: posts
+categories: gposts
 title: A Video Post
 tags: [sample post, video]
 date-string: NOVEMBER 14, 2016
