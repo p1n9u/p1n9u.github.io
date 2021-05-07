@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: posts
+categories: fposts
 title: A Video Post
 tags: [sample post, video]
 date-string: NOVEMBER 14, 2016
